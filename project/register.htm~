@@ -1,0 +1,16 @@
+<html>
+<body>
+<form action="http://127.0.0.1:8081/new_register" method="GET">
+First Name: <input type="text" name="first_name">
+<br>
+Last Name: <input type="text" name="last_name">
+<br>
+Password1: <input type="password" name="password1">
+<br>
+Password1: <input type="password" name="password1">
+<br>
+Location: <input type="test" name="location">
+<input type="submit" value="Submit">
+</form>
+</body>
+</html>

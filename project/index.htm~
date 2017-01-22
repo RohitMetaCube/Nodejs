@@ -1,0 +1,10 @@
+<html>
+<body>
+<form action="http://127.0.0.1:8081/login.htm" method="GET">
+Existing User: <input type="submit" value="Login">
+</form>
+<form action="http://127.0.0.1:8081/register" method="GET">
+New User Register: <input type="submit" value="Sign UP">
+</form>
+</body>
+</html>
